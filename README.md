@@ -11,10 +11,6 @@
      
 
 <br>
-    <section class="title">
-        <h1>X O - Game</h1>
-    </section>
-    <hr>
     <section class="turn">
         <span>X</span> 's turn
     </section>
